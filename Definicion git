@@ -1,0 +1,12 @@
+- "Git branch" 
+Es un comando en Git que se utiliza para manejar las “ramas” en un proyecto. Estas ramas pueden ir en paralelo a otras ramas que se pueden generar, permitiendo incorporar nuevas funcionalidades a un codigo de manera ordenada.
+- "Git checkout"
+Es un comando que se utiliza para cambiar entre diferentes versiones de una entidad objetivo. Este comando opera: "archivos", "confirmaciones", y "ramas".
+- "Git remote -v"
+Es un comando que se utiliza para listar todos los repositorios remotos que estan configurados para un repositorio publico. Cuando es ejecutado Git lista los nombres de todos los repositorios remotos junto a las URLs asociadas a ese nombre.
+- "Git clone"
+El comando git clone en Git se utiliza para crear una copia del repositorio Git en tu propio sistema local. Este comando crea automaticamente una conexion remota llamada "origin" que apunta al repositorio original.
+- "Git merge" 
+Es un comando de Git que se utiliza para fusionar una o más ramas en la rama que se encuentre activa1. Este comando permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama. En casos mas frecuentes se utiliza para combinar dos ramas.
+- " Git fork"
+Un “fork” en Git se refiere a la creación de una copia de un repositorio en una cuenta de un usuario. Este repositorio copiado será básicamente un clon del repositorio original desde el que se hace el fork, pero a partir de entonces, el fork vivirá en un espacio diferente y podrá evolucionar de manera distinta.
